@@ -6,6 +6,9 @@
   "homepage": "./",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
+    "@octokit/auth-app": "^3.0.0",
+    "@octokit/auth-oauth-app": "^3.0.8",
+    "@octokit/rest": "^18.3.0",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
